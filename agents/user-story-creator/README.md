@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Transforms high-level requirements, epic descriptions, or feature requests into well-formed, consistently structured user stories with acceptance criteria. Follows the standard "As a… I want… So that…" format and includes Definition of Ready guidance.
+Transforms high-level requirements, epic descriptions, or feature requests into well-formed, consistently structured user stories with acceptance criteria. Follows the standard "As a… I want… So that…" format.
 
 ## Inputs
 

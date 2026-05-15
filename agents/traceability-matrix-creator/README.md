@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Generates a requirements traceability matrix (RTM) from source artefacts (BRDs, user stories, test cases, epics). Maps requirements to their origin, related user stories, test coverage, and implementation status to support compliance, audit, and QA activities.
+Generates a requirements traceability matrix (RTM) from source artifacts (BRDs, user stories, test cases, epics). Maps requirements to their origin, related user stories, test coverage, and implementation status to support compliance, audit, and QA activities.
 
 ## Inputs
 
@@ -31,7 +31,7 @@ Additional sections:
 2. Paste into Copilot Chat (or your LLM tool) as the first message.
 3. Provide the requirements list and any related user stories or test cases.
 4. Specify the traceability direction if needed.
-5. Export the Markdown table to your project documentation or compliance artefacts.
+5. Export the Markdown table to your project documentation or compliance artifacts.
 
 ## Example
 

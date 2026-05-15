@@ -46,13 +46,13 @@ MCK-ERX-BA/
 ### Prerequisites
 
 - Access to GitHub Copilot (Chat or Agent mode) **or** any OpenAI-compatible LLM interface.
-- Familiarity with the eRx domain and standard BA/PO artefact types.
+- Familiarity with the eRx domain and standard BA/PO artifact types.
 
 ### Using an Agent
 
 1. Navigate to the relevant folder under `agents/` (e.g. `agents/meeting-notes-creator/`).
 2. Open the agent's `README.md` to read its purpose, inputs, and outputs.
-3. Copy the contents of the agent's instruction file (e.g. `agent.md` or `instructions.md`) into your Copilot Chat prompt, or use it as a custom agent definition in your IDE extension.
+3. Copy the contents of `instructions.md` into your Copilot Chat prompt, or use it as a custom agent definition in your IDE extension.
 4. Provide the required input (e.g. paste a meeting transcript) and run.
 
 ### Using a Prompt Template
@@ -79,7 +79,7 @@ Skills are modular building blocks that agents reference internally. You can als
 | [document-analyzer](agents/document-analyzer/) | Analyzes BRDs, PRDs, and specification documents to extract key information |
 | [epics-analyzer](agents/epics-analyzer/) | Breaks down and analyzes epics to identify scope, dependencies, and risks |
 | [user-story-creator](agents/user-story-creator/) | Transforms high-level requirements into well-formed user stories |
-| [traceability-matrix-creator](agents/traceability-matrix-creator/) | Generates requirements traceability matrices from source artefacts |
+| [traceability-matrix-creator](agents/traceability-matrix-creator/) | Generates requirements traceability matrices from source artifacts |
 | [roadmap-creator](agents/roadmap-creator/) | Produces structured product roadmaps from epics and priorities |
 
 ---

@@ -1,10 +1,10 @@
 # Skill: Identify Risks
 
 ## Purpose
-Identify risks and assumptions from project artefacts, meeting notes, requirements, or design descriptions.
+Identify risks and assumptions from project artifacts, meeting notes, requirements, or design descriptions.
 
 ## Inputs
-- Any project artefact: requirements document, design, meeting notes, epic description, etc.
+- Any project artifact: requirements document, design, meeting notes, epic description, etc.
 - Optional: risk categories to focus on (e.g. regulatory, integration, data, timeline)
 
 ## Outputs
@@ -14,12 +14,10 @@ Identify risks and assumptions from project artefacts, meeting notes, requiremen
 ## Usage
 
 ### Standalone
-Prefix your prompt with the instruction block below, then provide the source artefact.
+Prefix your prompt with the instruction block below, then provide the source artifact.
 
 ### Within an Agent
 Include the instruction block in agents that require risk surfacing, such as `document-analyzer`, `epics-analyzer`, or `roadmap-creator`.
-
----
 
 ## Instruction Block
 

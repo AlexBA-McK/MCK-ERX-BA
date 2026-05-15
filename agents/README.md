@@ -23,7 +23,7 @@ An agent is a packaged set of instructions (a system prompt) that directs an LLM
 | [document-analyzer](document-analyzer/) | Analyzes BRDs, PRDs, and specification documents to extract key information |
 | [epics-analyzer](epics-analyzer/) | Breaks down and analyzes epics to identify scope, dependencies, and risks |
 | [user-story-creator](user-story-creator/) | Transforms high-level requirements into well-formed user stories |
-| [traceability-matrix-creator](traceability-matrix-creator/) | Generates requirements traceability matrices from source artefacts |
+| [traceability-matrix-creator](traceability-matrix-creator/) | Generates requirements traceability matrices from source artifacts |
 | [roadmap-creator](roadmap-creator/) | Produces structured product roadmaps from epics and priorities |
 
 ---

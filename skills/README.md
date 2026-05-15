@@ -19,7 +19,7 @@ You can use a skill directly in a prompt, or reference it within a custom agent 
 | [extract-requirements.md](extract-requirements.md) | Extract and classify requirements from unstructured text |
 | [identify-gaps.md](identify-gaps.md) | Identify gaps in requirements or specifications |
 | [generate-acceptance-criteria.md](generate-acceptance-criteria.md) | Generate acceptance criteria for a user story or feature |
-| [identify-risks.md](identify-risks.md) | Identify risks and assumptions from project artefacts |
+| [identify-risks.md](identify-risks.md) | Identify risks and assumptions from project artifacts |
 | [prioritize-backlog.md](prioritize-backlog.md) | Apply MoSCoW or WSJF prioritization to a backlog |
 
 ---
